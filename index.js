@@ -17,4 +17,6 @@ fetch('https://api.openweathermap.org/data/2.5/weather?q=KYIV&units=metric&APPID
         ;
     })
 
+
+    
     // < img class ="" src = "https://openweathermap.org/img/w/10d.png" /> а так работает
